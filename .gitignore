@@ -1,0 +1,35 @@
+# --- OS & System Files ---
+.DS_Store
+Thumbs.db
+*.swp
+*~
+
+# --- IDE & Editors ---
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# --- Java (Maven/Gradle) ---
+target/
+build/
+*.class
+*.jar
+*.war
+
+# --- Go ---
+# Binaries
+*.exe
+*.test
+*.out
+vendor/
+
+# --- C / C++ ---
+*.o
+*.obj
+# Common default output name for C compilers
+a.out
+
+# --- Docker ---
+# If you ever mount a local data volume, you might want to ignore that specific folder here
+# e.g., /data/
