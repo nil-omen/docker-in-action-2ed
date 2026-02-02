@@ -33,3 +33,20 @@ a.out
 # --- Docker ---
 # If you ever mount a local data volume, you might want to ignore that specific folder here
 # e.g., /data/
+
+
+tmp
+
+
+# Created by .ignore support plugin (hsz.mobi)
+### Go template
+# Binaries for programs and plugins
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Test binary, build with `go test -c`
+*.test
+
+
