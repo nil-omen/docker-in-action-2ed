@@ -7,3 +7,8 @@ The current version of these examples is always available on GitHub:
 
 -- Stephen & Jeff
 
+
+Other links:
+- [DockerHub](https://hub.docker.com/u/dockerinaction/)
+- [Book's website](https://www.manning.com/books/docker-in-action-second-edition)
+- [Github](https://github.com/dockerinaction)
